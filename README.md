@@ -1,2 +1,1 @@
-# my-website
-My personal website
+Just because I'm using GitHub Pages
